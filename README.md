@@ -8,6 +8,10 @@ You've been asked to use imbalanced-learn and scikit-learn libraries to build an
 
 Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, you’ll oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, I’ll use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, I’ll compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Once I'm done, I evaluated the performance of these models and made a written recommendation on whether they should be used to predict credit risk.
 
+## Resources
+
+Software: Juypter Notebook, imbalaced-learn & scikit-learn libraries, Python
+Data: LoanStats_2019Q1.csv
 
 ## Results
 
