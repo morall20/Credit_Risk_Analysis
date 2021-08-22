@@ -13,9 +13,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ### Credit Risk Resampling
 
-#### Fig.1
 ***Naive Random Oversampling***
- Insert Slide 1
+
+![NRO](https://user-images.githubusercontent.com/82338072/130370919-941cb297-bd20-4015-b8ec-5273f99f9b89.PNG)
+
 
 - Balance accuracy score - 65%
 - Precision scores <> high-risk 0.01 <> low-risk 1.00
@@ -23,10 +24,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - Avg/Total 99% for precision & 65% for recall
 
 
-#### Fig.2
 ***SMOTE Oversampling***
 
-Insert Slide 2
+![smote](https://user-images.githubusercontent.com/82338072/130370929-1b13bbec-475a-4597-9dde-214fb940d56e.PNG)
+
 
 - Balance accuracy score - 66%
 - Precision scores <> high-risk 0.01 <> low-risk 1.00
@@ -34,10 +35,10 @@ Insert Slide 2
 - Avg/Total 99% for precision & 65% for recall 
 
 
-#### Fig.3
 ***Cluster Undersampling***
 
-Insert Slide 3 
+![cluster_Undersample](https://user-images.githubusercontent.com/82338072/130370949-0e700ace-e1af-41af-a698-1134ad4d1cab.PNG)
+
 
 - Balance accuracy score - 51%
 - Precision scores <> high-risk 0.01 <> low-risk 1.00
@@ -45,10 +46,11 @@ Insert Slide 3
 - Avg/Total 99% for precision & 46% for recall 
 
 
-#### Fig.4
+
 ***SMOTEENN Combination Over & Under Sampling***
 
-Insert Slide 4
+![smotteenn_combo_ over_under](https://user-images.githubusercontent.com/82338072/130370955-1369ac7c-7371-45cc-9506-b524fa92f645.PNG)
+
 
 - Balance accuracy score - 51%
 - Precision scores <> high-risk 0.01 <> low-risk 1.00
@@ -60,7 +62,8 @@ Insert Slide 4
 #### Credit Risk Ensemble
 ***Balanced Random Forest Classifier***
 
-Insert Slide 5
+![credeit_risk_ensemble](https://user-images.githubusercontent.com/82338072/130370965-b02511b0-0971-4b22-b32f-572c02da6ac9.PNG)
+
 
 - Balance accuracy score - 78%
 - Precision scores <> high-risk 0.04 <> low-risk 1.00
@@ -71,7 +74,8 @@ Insert Slide 5
 
 ***Easy Ensemble Ada Boost Classifier***
 
-Insert Slide 6 
+![easy_ensamble](https://user-images.githubusercontent.com/82338072/130370969-5c54ad42-bc9b-489f-ad1e-9dd6faa5ba90.PNG)
+
 
 - Balance accuracy score - 93%
 - Precision scores <> high-risk 0.07 <> low-risk 1.00
