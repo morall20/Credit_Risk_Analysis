@@ -1,5 +1,6 @@
 # Credit Risk Analysis
 
+![credit-risk-managment-training](https://user-images.githubusercontent.com/82338072/130371189-307fc294-6d09-42e1-a154-d2d53586ba3b.png)
 
 
 ## Overview of the Analysis
@@ -10,8 +11,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Resources
 
-Software: Juypter Notebook, imbalaced-learn & scikit-learn libraries, Python
-Data: LoanStats_2019Q1.csv
+- Software: Juypter Notebook, imbalaced-learn & scikit-learn libraries, Python
+- Data: LoanStats_2019Q1.csv
 
 ## Results
 
